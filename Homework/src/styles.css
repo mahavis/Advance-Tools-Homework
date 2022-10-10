@@ -10,7 +10,7 @@ h3 {
   margin: 0;
 }
 h1 {
-  font-size: 96px;
+  font-size: 70px;
   display: block;
 }
 
@@ -93,13 +93,13 @@ p {
 }
 
 .primary-link {
-  border-radius: 8px;
+  border-radius: 4px;
   background-color: var(--primary-color);
   box-shadow: var(--box-shadow);
   color: whitesmoke;
   text-decoration: none;
   padding: 20px 15px;
-  box-sizing: border-box;
+  display: block;
 }
 
 .primary-link:hover {
